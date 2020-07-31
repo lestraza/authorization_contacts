@@ -2,6 +2,22 @@
 
 In the project directory, you can run:
 
+### `cd client`
+
+Goes to the client app in the terminal 
+
+### `npm install`
+
+Installs client's node modules
+
+### `cd server`
+
+Goes to the server app in the terminal. Open new terminal window before.
+
+### `npm install`
+
+Installs server's node modules
+
 ### `npm start`
 
 Runs the client app in the development mode.<br />
